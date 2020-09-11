@@ -14,8 +14,8 @@
     <source></source>
     <forum></forum>
     <assets>
-      <icon></icon>
-      <fanart></fanart>
+	    <icon>resources/icon.png</icon>
+	    <fanart>resources/fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>
